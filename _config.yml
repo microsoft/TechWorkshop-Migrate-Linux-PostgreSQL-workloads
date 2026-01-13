@@ -1,0 +1,24 @@
+title: TechWorkshop L300 - Migrate and modernize workloads to Azure - Linux and PostgreSQL
+description: In this course, you will learn to migrate and modernize Linux and PostgreSQL workloads to Azure.
+theme: just-the-docs
+
+aux_links:
+  "Migrate and modernize workloads to Azure - Linux and PostgreSQL Workshop Repository":
+    - "https://github.com/microsoft/TechWorkshop-Migrate-Linux-PostgreSQL-workloads"
+
+callouts_level: quiet # or loud
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note 
+    color: purple
+  warning:
+    title: Warning
+    color: red
